@@ -1,9 +1,5 @@
 This project is all about tutorials for reatjs that i play with. (Server site will play ruby on rails)
 
-# Table of Contents
-
-+ [reactjs + webpack + babel](#start-reactjs-with-webpack-and-babel)
-
 ## Start reactjs with webpack and babel
 
 Create new project directory and start git, npm
@@ -226,3 +222,6 @@ Finally, run foreman and check the work
 foreman start
 ```
 
+# Table of Contents
+
++ [Using redux](docs/tutorial1.md)
