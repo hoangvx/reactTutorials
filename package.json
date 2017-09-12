@@ -2,7 +2,10 @@
   "name": "tutorials",
   "private": true,
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.0.0-beta",
+    "es6-promise": "^4.1.1",
+    "isomorphic-fetch": "^2.2.1",
     "jquery": "^3.2.1",
     "popper.js": "^1.12.5",
     "react": "^15.6.1",
